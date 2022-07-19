@@ -34,3 +34,7 @@ The following image shows the sample of the website:Portfolio.
 ![Sample image 1 of 3 Portfolio website](./assets/images/sample-image-1.png)
 ![Sample image 2 of 3 Portfolio website](./assets/images/sample-image-2.png)
 ![Sample image 3 of 3 Portfolio website](./assets/images/sample-image-3.png)
+
+#Link
+Below is the link for the website deployment.
+[Portfolio website](https://yichanyourichard.github.io/02-Challenge-Portfolio/)
